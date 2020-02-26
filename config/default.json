@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://blakep:<njcl6j>@cluster0-a6z1m.gcp.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://blakep:njcl6j@cluster0-a6z1m.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
